@@ -1,0 +1,500 @@
+{
+	"groups": [
+		{
+			"keys": "bg-jpg,egret_icon,description,multiplayer,textbox_code_computer,textbox_code_mobile,textbox_credits,textbox_large,textbox_small,textbox_title,title_ispy,title_thief,using_computer,using_mobile,gameplay_1,gameplay_2,ghost_win,multiplayer_intro,gameloop2,patagonia-webfont_svg,kid_run5,kid_run6,kid_run7,kid_run8,lantern_active,lantern_glow,lantern_glow_alpha,lantern_spent,Middle_deco_4,Middle_deco_7,Middle_deco_3,Middle_deco_1,Middle_deco_9,Middle_deco_10,Middle_deco_11,Middle_deco_8,Middle_deco_5,Middle_deco_6,Middle_deco_2,Ghost,Player,Wall_Attic_Right,Wall_Attic_Single,Wall_Basement_Center,Wall_Basement_Left,Wall_Basement_Right,Wall_Basement_Single,Wall_Middle_Center,Wall_Middle_Left,Wall_Middle_Right,Wall_Middle_Single,ghost_winner,thief_winner,Attic_deco_6,Attic_deco_3,Attic_deco_5,Attic_deco_2,Attic_deco_1,Attic_deco_4,Attic_deco_7,Basement_deco_4,Basement_deco_1,Basement_deco_3,Basement_deco_2,black,countdown_0,countdown_1,countdown_2,countdown_3,Anvil,Crate,Safe,Floor_Center,ghost_float1,ghost_float2,ghost_float3,ghost_float4,ghost_float5,ghost_float6,ghost_float7,ghost_float8,kid_air_fall,kid_air_jump,kid_idle,kid_lantern,kid_run1,kid_run2,kid_run3,kid_run4,patagonia-webfont2_svg,gameloop22,Wall_Attic_Center,Wall_Attic_Left,ball_png,circle_png,title_ghost,attacking",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg-jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description"
+		},
+		{
+			"url": "assets/intro_screens/multiplayer.png",
+			"type": "image",
+			"name": "multiplayer"
+		},
+		{
+			"url": "assets/intro_screens/textbox_code_computer.png",
+			"type": "image",
+			"name": "textbox_code_computer"
+		},
+		{
+			"url": "assets/intro_screens/textbox_code_mobile.png",
+			"type": "image",
+			"name": "textbox_code_mobile"
+		},
+		{
+			"url": "assets/intro_screens/textbox_credits.png",
+			"type": "image",
+			"name": "textbox_credits"
+		},
+		{
+			"url": "assets/intro_screens/textbox_large.png",
+			"type": "image",
+			"name": "textbox_large"
+		},
+		{
+			"url": "assets/intro_screens/textbox_small.png",
+			"type": "image",
+			"name": "textbox_small"
+		},
+		{
+			"url": "assets/intro_screens/textbox_title.png",
+			"type": "image",
+			"name": "textbox_title"
+		},
+		{
+			"url": "assets/intro_screens/title_ispy.png",
+			"type": "image",
+			"name": "title_ispy"
+		},
+		{
+			"url": "assets/intro_screens/title_thief.png",
+			"type": "image",
+			"name": "title_thief"
+		},
+		{
+			"url": "assets/intro_screens/using_computer.png",
+			"type": "image",
+			"name": "using_computer"
+		},
+		{
+			"url": "assets/intro_screens/using_mobile.png",
+			"type": "image",
+			"name": "using_mobile"
+		},
+		{
+			"url": "assets/screenshots/gameplay_1.png",
+			"type": "image",
+			"name": "gameplay_1"
+		},
+		{
+			"url": "assets/screenshots/gameplay_2.gif",
+			"type": "image",
+			"name": "gameplay_2"
+		},
+		{
+			"url": "assets/screenshots/ghost_win.png",
+			"type": "image",
+			"name": "ghost_win"
+		},
+		{
+			"url": "assets/screenshots/multiplayer_intro.png",
+			"type": "image",
+			"name": "multiplayer_intro"
+		},
+		{
+			"url": "assets/sounds/gameloop2.mp3",
+			"type": "sound",
+			"name": "gameloop2"
+		},
+		{
+			"url": "assets/fonts/patagonia-webfont.svg",
+			"type": "image",
+			"name": "patagonia-webfont_svg"
+		},
+		{
+			"url": "assets/sprites/kid_run5.png",
+			"type": "image",
+			"name": "kid_run5"
+		},
+		{
+			"url": "assets/sprites/kid_run6.png",
+			"type": "image",
+			"name": "kid_run6"
+		},
+		{
+			"url": "assets/sprites/kid_run7.png",
+			"type": "image",
+			"name": "kid_run7"
+		},
+		{
+			"url": "assets/sprites/kid_run8.png",
+			"type": "image",
+			"name": "kid_run8"
+		},
+		{
+			"url": "assets/sprites/lantern_active.png",
+			"type": "image",
+			"name": "lantern_active"
+		},
+		{
+			"url": "assets/sprites/lantern_glow.png",
+			"type": "image",
+			"name": "lantern_glow"
+		},
+		{
+			"url": "assets/sprites/lantern_glow_alpha.png",
+			"type": "image",
+			"name": "lantern_glow_alpha"
+		},
+		{
+			"url": "assets/sprites/lantern_spent.png",
+			"type": "image",
+			"name": "lantern_spent"
+		},
+		{
+			"url": "assets/sprites/middle_armoire.png",
+			"type": "image",
+			"name": "Middle_deco_4"
+		},
+		{
+			"url": "assets/sprites/middle_bookcase.png",
+			"type": "image",
+			"name": "Middle_deco_7"
+		},
+		{
+			"url": "assets/sprites/middle_deerhead.png",
+			"type": "image",
+			"name": "Middle_deco_3"
+		},
+		{
+			"url": "assets/sprites/middle_piano.png",
+			"type": "image",
+			"name": "Middle_deco_1"
+		},
+		{
+			"url": "assets/sprites/middle_portrait1.png",
+			"type": "image",
+			"name": "Middle_deco_9"
+		},
+		{
+			"url": "assets/sprites/middle_portrait2.png",
+			"type": "image",
+			"name": "Middle_deco_10"
+		},
+		{
+			"url": "assets/sprites/middle_portrait3.png",
+			"type": "image",
+			"name": "Middle_deco_11"
+		},
+		{
+			"url": "assets/sprites/middle_portrait4.png",
+			"type": "image",
+			"name": "Middle_deco_8"
+		},
+		{
+			"url": "assets/sprites/middle_powerpoint.png",
+			"type": "image",
+			"name": "Middle_deco_5"
+		},
+		{
+			"url": "assets/sprites/middle_shelf.png",
+			"type": "image",
+			"name": "Middle_deco_6"
+		},
+		{
+			"url": "assets/sprites/middle_window.png",
+			"type": "image",
+			"name": "Middle_deco_2"
+		},
+		{
+			"url": "assets/sprites/tmp_ghost.png",
+			"type": "image",
+			"name": "Ghost"
+		},
+		{
+			"url": "assets/sprites/tmp_kid.png",
+			"type": "image",
+			"name": "Player"
+		},
+		{
+			"url": "assets/sprites/wall_attic_right.png",
+			"type": "image",
+			"name": "Wall_Attic_Right"
+		},
+		{
+			"url": "assets/sprites/wall_attic_single.png",
+			"type": "image",
+			"name": "Wall_Attic_Single"
+		},
+		{
+			"url": "assets/sprites/wall_basement_center.png",
+			"type": "image",
+			"name": "Wall_Basement_Center"
+		},
+		{
+			"url": "assets/sprites/wall_basement_left.png",
+			"type": "image",
+			"name": "Wall_Basement_Left"
+		},
+		{
+			"url": "assets/sprites/wall_basement_right.png",
+			"type": "image",
+			"name": "Wall_Basement_Right"
+		},
+		{
+			"url": "assets/sprites/wall_basement_single.png",
+			"type": "image",
+			"name": "Wall_Basement_Single"
+		},
+		{
+			"url": "assets/sprites/wall_middle_center.png",
+			"type": "image",
+			"name": "Wall_Middle_Center"
+		},
+		{
+			"url": "assets/sprites/wall_middle_left.png",
+			"type": "image",
+			"name": "Wall_Middle_Left"
+		},
+		{
+			"url": "assets/sprites/wall_middle_right.png",
+			"type": "image",
+			"name": "Wall_Middle_Right"
+		},
+		{
+			"url": "assets/sprites/wall_middle_single.png",
+			"type": "image",
+			"name": "Wall_Middle_Single"
+		},
+		{
+			"url": "assets/sprites/winner_is_ghost.png",
+			"type": "image",
+			"name": "ghost_winner"
+		},
+		{
+			"url": "assets/sprites/winner_is_thief.png",
+			"type": "image",
+			"name": "thief_winner"
+		},
+		{
+			"url": "assets/sprites/attic_armchair.png",
+			"type": "image",
+			"name": "Attic_deco_6"
+		},
+		{
+			"url": "assets/sprites/attic_bike.png",
+			"type": "image",
+			"name": "Attic_deco_3"
+		},
+		{
+			"url": "assets/sprites/attic_bookstack.png",
+			"type": "image",
+			"name": "Attic_deco_5"
+		},
+		{
+			"url": "assets/sprites/attic_mystery.png",
+			"type": "image",
+			"name": "Attic_deco_1"
+		},
+		{
+			"url": "assets/sprites/attic_trunk.png",
+			"type": "image",
+			"name": "Attic_deco_4"
+		},
+		{
+			"url": "assets/sprites/attic_window.png",
+			"type": "image",
+			"name": "Attic_deco_7"
+		},
+		{
+			"url": "assets/sprites/basement_boiler.png",
+			"type": "image",
+			"name": "Basement_deco_4"
+		},
+		{
+			"url": "assets/sprites/basement_shelf.png",
+			"type": "image",
+			"name": "Basement_deco_1"
+		},
+		{
+			"url": "assets/sprites/basement_vent.png",
+			"type": "image",
+			"name": "Basement_deco_3"
+		},
+		{
+			"url": "assets/sprites/basement_winerack.png",
+			"type": "image",
+			"name": "Basement_deco_2"
+		},
+		{
+			"url": "assets/sprites/black.png",
+			"type": "image",
+			"name": "black"
+		},
+		{
+			"url": "assets/sprites/countdown_0.png",
+			"type": "image",
+			"name": "countdown_0"
+		},
+		{
+			"url": "assets/sprites/countdown_1.png",
+			"type": "image",
+			"name": "countdown_1"
+		},
+		{
+			"url": "assets/sprites/countdown_2.png",
+			"type": "image",
+			"name": "countdown_2"
+		},
+		{
+			"url": "assets/sprites/countdown_3.png",
+			"type": "image",
+			"name": "countdown_3"
+		},
+		{
+			"url": "assets/sprites/drop_anvil.png",
+			"type": "image",
+			"name": "Anvil"
+		},
+		{
+			"url": "assets/sprites/drop_crate.png",
+			"type": "image",
+			"name": "Crate"
+		},
+		{
+			"url": "assets/sprites/drop_safe.png",
+			"type": "image",
+			"name": "Safe"
+		},
+		{
+			"url": "assets/sprites/floor_center.png",
+			"type": "image",
+			"name": "Floor_Center"
+		},
+		{
+			"url": "assets/sprites/ghost_float1.png",
+			"type": "image",
+			"name": "ghost_float1"
+		},
+		{
+			"url": "assets/sprites/ghost_float2.png",
+			"type": "image",
+			"name": "ghost_float2"
+		},
+		{
+			"url": "assets/sprites/ghost_float3.png",
+			"type": "image",
+			"name": "ghost_float3"
+		},
+		{
+			"url": "assets/sprites/ghost_float4.png",
+			"type": "image",
+			"name": "ghost_float4"
+		},
+		{
+			"url": "assets/sprites/ghost_float5.png",
+			"type": "image",
+			"name": "ghost_float5"
+		},
+		{
+			"url": "assets/sprites/ghost_float6.png",
+			"type": "image",
+			"name": "ghost_float6"
+		},
+		{
+			"url": "assets/sprites/ghost_float7.png",
+			"type": "image",
+			"name": "ghost_float7"
+		},
+		{
+			"url": "assets/sprites/ghost_float8.png",
+			"type": "image",
+			"name": "ghost_float8"
+		},
+		{
+			"url": "assets/sprites/kid_air_fall.png",
+			"type": "image",
+			"name": "kid_air_fall"
+		},
+		{
+			"url": "assets/sprites/kid_air_jump.png",
+			"type": "image",
+			"name": "kid_air_jump"
+		},
+		{
+			"url": "assets/sprites/kid_idle.png",
+			"type": "image",
+			"name": "kid_idle"
+		},
+		{
+			"url": "assets/sprites/kid_lantern.png",
+			"type": "image",
+			"name": "kid_lantern"
+		},
+		{
+			"url": "assets/sprites/kid_run1.png",
+			"type": "image",
+			"name": "kid_run1"
+		},
+		{
+			"url": "assets/sprites/kid_run2.png",
+			"type": "image",
+			"name": "kid_run2"
+		},
+		{
+			"url": "assets/sprites/kid_run3.png",
+			"type": "image",
+			"name": "kid_run3"
+		},
+		{
+			"url": "assets/sprites/kid_run4.png",
+			"type": "image",
+			"name": "kid_run4"
+		},
+		{
+			"url": "assets/fonts/patagonia-webfont.svg",
+			"type": "image",
+			"name": "patagonia-webfont2_svg"
+		},
+		{
+			"url": "assets/sounds/gameloop2.mp3",
+			"type": "sound",
+			"name": "gameloop22"
+		},
+		{
+			"url": "assets/sprites/attic_boxes.png",
+			"type": "image",
+			"name": "Attic_deco_2"
+		},
+		{
+			"url": "assets/sprites/wall_attic_center.png",
+			"type": "image",
+			"name": "Wall_Attic_Center"
+		},
+		{
+			"url": "assets/sprites/wall_attic_left.png",
+			"type": "image",
+			"name": "Wall_Attic_Left"
+		},
+		{
+			"url": "assets/intro_screens/bg.jpg",
+			"type": "image",
+			"name": "bg"
+		},
+		{
+			"url": "assets/ball.png",
+			"type": "image",
+			"name": "ball_png"
+		},
+		{
+			"url": "assets/circle.png",
+			"type": "image",
+			"name": "circle_png"
+		},
+		{
+			"url": "assets/intro_screens/title_ghost.png",
+			"type": "image",
+			"name": "title_ghost"
+		},
+		{
+			"url": "assets/sprites/attacking.png",
+			"type": "image",
+			"name": "attacking"
+		}
+	]
+}
